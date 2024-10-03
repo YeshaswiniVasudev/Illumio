@@ -26,7 +26,7 @@ This Java application processes flow log data and generates an output file conta
 
 ## Description
 
-The `Main.java` file contains the main logic for parsing flow logs and lookup data. The application uses two HashMaps to store tag counts and port/protocol combinations, and it generates an output file named `output.txt` in the `output/main/java/com/yeshaswini/project/` directory.
+The `Main.java` file contains the main logic for parsing flow logs and lookup data. The application uses two HashMaps to store tag counts and port/protocol combinations, and it generates an output file named `output.txt` in the `output` directory.
 
 ### Files
 
