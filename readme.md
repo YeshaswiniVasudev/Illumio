@@ -15,7 +15,7 @@ This Java application processes flow log data and generates an output file conta
 
 3. **Resource Availability**: It is assumed that the necessary resource files (lookup.txt and logs.txt) are present in the specified directory (`resources/`) and are accessible during program execution.
 
-4. **Output Directory**: The program will write the output to `output/main/java/com/yeshaswini/project/output.txt`, and it is assumed that the `output` directory exists prior to execution.
+4. **Output Directory**: The program will write the output to `output/output.txt`, and it is assumed that the `output` directory exists prior to execution.
 
 5. **Java Version**: The program is assumed to be run using Java 8 or higher, as it utilizes features available in those versions.
 
@@ -69,7 +69,7 @@ The application will read these files from the resources directory.
 
 ### Output
 The output will be generated in the following file: (refer to the file structure)
-output/main/java/com/yeshaswini/project/output.txt
+output/output.txt
 
 This file will contain two sections:
 
